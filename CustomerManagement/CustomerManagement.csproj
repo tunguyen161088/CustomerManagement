@@ -62,6 +62,7 @@
     <Compile Include="Services\CustomerHelper.cs" />
     <Compile Include="Services\OrderHelper.cs" />
     <Compile Include="ViewModelBase.cs" />
+    <Compile Include="ViewModelLocator.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
